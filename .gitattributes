@@ -1,2 +1,2 @@
-*.py linguist-vendored=true
-*.txt linguist-language=Python
+*.py linguist-detectable=true
+*.txt linguist-vendored=true
